@@ -6,7 +6,7 @@
 # Day3 Input function
 
 name = input("Enter your name: ")
-age = input("Enter your age: ")
+age =  input("Enter your age: ")
 city = input("Enter your city: ")
 
 print("Name : ", name)
