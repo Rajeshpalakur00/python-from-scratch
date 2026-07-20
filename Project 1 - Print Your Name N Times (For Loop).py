@@ -6,3 +6,4 @@ times = int(input("Number of times"))
 
 for i in range(times):
     print (name)
+
